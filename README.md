@@ -29,3 +29,10 @@ Los ejercicios están organizados en carpetas según el tema o proyecto.
 
 Utilizar este repositorio para registrar mi progreso y evolución en el aprendizaje
 de programación durante la carrera
+
+## Sobre el repositorio
+
+Este repositorio forma parte de mi proceso de aprendizaje como estudiante de
+la Tecnicatura en Programación de la UTN.
+
+Los ejercicios se irán incorporando a medida que avance en la carrera.
